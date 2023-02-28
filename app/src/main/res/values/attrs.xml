@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DialView">/>
+        <attr name="change_operation" format="boolean" />
+        <attr name="counter_default_state" format="integer" />
+    </declare-styleable>
+</resources>
